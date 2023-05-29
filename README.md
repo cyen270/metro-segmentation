@@ -2,7 +2,7 @@
 This project seeks to find and understand natural groupings of metropolitan areas within the United States.
 
 To develop these segments, data was pulled from:
-* United States Census Bureau - metro populations, age and race distributions
+* United States Census Bureau - metro area population characteristics (e.g., age and race distributions)
 * National Oceanic and Atmospheric Administration (NOAA) - climate and weather
 * American Community Service - occupation types, remote work, availability of public transportation, income
 * Redfin - property list and sale values, housing availability, property types
